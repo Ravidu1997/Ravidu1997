@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ravidu1997
+- 👋 Hi, I’m Ravindu
 - 👀 I’m interested in Web and Game Development
 - 🌱 I’m currently learning UG at Sabaragamuwa University Of Sri Lanka
 - 💞️ I’m looking to collaborate on Github contributors make it pretty!
