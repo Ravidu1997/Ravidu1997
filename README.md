@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravindu
-- 👀 I’m interested in Web and Game Development
-- 🌱 I’m currently learning UG at Sabaragamuwa University Of Sri Lanka
+- 👀 I’m interested in Web Development
+- 🌱 Currently learning at Faculty of computingSabaragamuwa University Of Sri Lanka
 - 💞️ I’m looking to collaborate on Github contributors make it pretty!
 - 📫 How to reach me FB- Ravindu Roshen
 
